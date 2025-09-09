@@ -1,0 +1,21 @@
+**Log on to codeastro.com for more projects!**
+
+**Developed By Owonubi Job Sunday**
+
+**Instructions**
+- Install the Requirements: pip install -r requirements.txt
+- Then, make database migrations: python manage.py makemigrations
+- python manage.py migrate
+- And finally, run the application: python manage.py runserver
+
+
+**For Admin Login Credentials, please create one using superuser!**
+==================================================================================
+Email: shamsurrehman2010@gmail.com
+Password: 12345678
+Password (again): 12345678
+This password is too common.
+This password is entirely numeric.
+Bypass password validation and create user anyway? [y/N]: y
+Superuser created successfully.
+PS E:\Django_Web_development\CollegeManagement-Django> 
